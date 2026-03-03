@@ -1,0 +1,17 @@
+*.exe
+*.dsym
+main
+
+# Debug / Mac
+*.dsym
+
+# VS Code
+.vscode/
+
+# DLL files
+
+
+# Build folders
+build/
+bin/
+CMakeFiles/
